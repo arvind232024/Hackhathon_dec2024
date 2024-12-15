@@ -1,0 +1,13 @@
+[project]
+name = "streamlit-qahackathon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "pandas>=2.2.3",
+    "pypdf2>=3.0.1",
+    "streamlit>=1.41.1",
+    "xlsxwriter>=3.2.0",
+]
